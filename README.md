@@ -8,6 +8,8 @@ A simple and flexible logging utility for JavaScript developers. It supports mul
 - Customizable log formats
 - Easy integration and extension
 
+![Screenshot from 2024-12-10 18-16-19](https://github.com/user-attachments/assets/41e558a6-d14c-448b-86d0-361ee0ac8f67)
+
 ## Installation
 
 You can install the logger using npm or Yarn:
