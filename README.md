@@ -6,9 +6,6 @@ A simple and flexible logging utility for JavaScript developers. It supports mul
 
 - Supports multiple log levels: `info`, `warn`, `error`
 - Customizable log formats
-- Write logs to the console or file
-- Customizable timestamp format
-- Flexible log level control per environment (e.g., `debug` in development, `error` in production)
 - Easy integration and extension
 
 ## Installation
